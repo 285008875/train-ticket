@@ -12,57 +12,35 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `首页搜索` 
 
-### `yarn build`
+* `日期选择`
+* `城市选择和交换`
+* `是否动车`
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/sousuo.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+###### `首页城市选择`
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/chengshi.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+###### `首页日期选择`
 
-### `yarn eject`
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/riqi.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `城市列表` 
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/chepiaoliebiao.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### `城市列表设置` 
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/chepiaoliebiao.shezhipng)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### `选等级票` 
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/xuanzuo.png)
 
-## Learn More
+### `订单` 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* `添加成人儿童票`
+* `选座`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/dingdan.png)
