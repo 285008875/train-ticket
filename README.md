@@ -33,7 +33,7 @@ You will also see any lint errors in the console.
 ![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/chepiaoliebiao.png)
 
 #### `城市列表设置` 
-![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/chepiaoliebiao.shezhipng)
+![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/chepiaoliebiao.png)
 
 ### `选等级票` 
 ![avatar](https://github.com/285008875/train-ticket/blob/master/public/img/xuanzuo.png)
